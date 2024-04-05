@@ -6,7 +6,10 @@ public class Ex2 {
 		// TODO Auto-generated method stub
 		System.out.print("HEllo");
 		System.out.print("HEllo");
-		System.out.print("HEllo");
+		if(1==1)
+		{
+			System.out.print("1 is 1");
+		}
 		}
 
 }
