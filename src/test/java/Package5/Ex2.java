@@ -6,6 +6,7 @@ public class Ex2 {
 		// TODO Auto-generated method stub
 		System.out.print("HEllo");
 		System.out.print("HEllo");
+		System.out.print("HEllo");
 		}
 
 }
